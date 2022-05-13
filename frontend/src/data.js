@@ -2,37 +2,37 @@ export const categories = [
     {   
         id:1,
         name:'SHIRT STYLES',
-        src:'./images/ShirtStyle.jpg',
+        src:'ShirtStyle.jpg',
         popular:true
     },
     {
         id: 2,
         name:'Jackets',
-        src:'./images/Jacket.jpg',
+        src:'Jacket.jpg',
         popular:true
     },
     {
         id: 3,
         name:'Jumpsuits',
-        src:'./images/Jumpsuits.jpg',
+        src:'Jumpsuits.jpg',
         popular:true
     },
     {
         id: 4,
         name:'Loungewear',
-        src:'./images/Loungewear.jpg',
+        src:'Loungewear.jpg',
         popular:true
     },
     {
         id: 5,
         name:'Jeans',
-        src:'./images/Jeans.jfif',
+        src:'Jeans.jfif',
         popular:true
     },
     {
         id: 6,
         name:'Dresses',
-        src:'./images/SummerDress.jpg',
+        src:'SummerDress.jpg',
         popular:true
     }
 ];
@@ -65,55 +65,55 @@ export const products = [
     {
         id: 1,
         name: "Jeans",
-        src: './images/Product1.png',
+        src: 'Product1.png',
         popular: true
     },
     {
         id: 2,
         name: "Jeans",
-        src: './images/Product2.png',
+        src: 'Product2.png',
         popular: true
     },
     {
         id: 3,
         name: "Jeans",
-        src: './images/Product3.png',
+        src: 'Product3.png',
         popular: true
     },
     {
         id: 4,
         name: "Jeans",
-        src: './images/Product4.png',
+        src: 'Product4.png',
         popular: true
     },
     {
         id: 5,
         name: "Jeans",
-        src: './images/Product5.png',
+        src: 'Product5.png',
         popular: true
     },
     {
         id: 6,
         name: "Jeans",
-        src: './images/Product6.png',
+        src: 'Product6.png',
         popular: true
     },
     {
         id: 7,
         name: "Jeans",
-        src: './images/Product7.png',
+        src: 'Product7.png',
         popular: true
     },
     {
         id: 8,
         name: "Jeans",
-        src: './images/Product8.png',
+        src: 'Product8.png',
         popular: true
     },
     {
         id: 9,
         name: "Jeans",
-        src: './images/Product9.png',
+        src: 'Product9.png',
         popular: true
     }
 ]

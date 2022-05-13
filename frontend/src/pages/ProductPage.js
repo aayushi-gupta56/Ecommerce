@@ -6,6 +6,7 @@ import Footer from '../Components/Footer'
 import './Pages.css';
 import AddIcon from '@material-ui/icons/Add'
 import RemoveIcon from '@material-ui/icons/Remove'
+import {PF} from '../publicFolder'
 
 const ProductPage = ()=>{
     return(
@@ -14,7 +15,7 @@ const ProductPage = ()=>{
             <Announcements />
             <div className='product-page-wrapper'>
                 <div className='product-image-Container'>
-                    <img src='./images/denimJumpsuit.jfif' alt='Denim Jumpsuit' className='product-image'></img>
+                    <img src={`${PF}denimJumpsuit.jfif`} alt='Denim Jumpsuit' className='product-image'></img>
                 </div>
                 <div className='product-desc'>
                     <h1 className='name'>Denim Jumpsuit</h1>
